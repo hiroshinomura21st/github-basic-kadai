@@ -1,2 +1,0 @@
-4081403 (HEAD -> master) 日本語訳を追記
-c1e5f7a hello_world.txtを追加
